@@ -13,6 +13,7 @@ coffee-script
 ```
 $ npm install -g coffee-script
 $ cd project
+$ npm install
 $ coffee start.coffee
 ```
 
