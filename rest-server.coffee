@@ -32,6 +32,7 @@ class @RestServer
 
           res.on 'end', () ->
             resultObject = JSON.parse responseString
+            console.log "Emitting: %j", resultObject
             # return back value
             socket.emit 'createResponse', resultObject
 
