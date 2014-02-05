@@ -16,4 +16,6 @@ $ cd project
 $ coffee start.coffee
 ```
 
-# Now open the web gui and select **NodeJS** in the combo to send data to this server.
+# Now 
+
+open the web gui and select **NodeJS** in the combo to send data to this server.
